@@ -115,6 +115,7 @@ for qry_id in queries.keys():
 # print(qry_words.get("1"))
 # print(len(qry_words.get("1")))
 
+
 #Simple boolean search algorithm
 def retrieve_documents(doc_words, query):
     docs = []
